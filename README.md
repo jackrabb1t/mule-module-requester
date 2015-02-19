@@ -77,7 +77,8 @@ For MuleStudio
 --------------
 1. Download the update site zip file from the following location:
 https://repository-master.mulesoft.org/nexus/content/repositories/releases/org/mule/modules/mule-module-requester/1.2/mule-module-requester-1.2-studio-plugin.zip
-2. Install it in MuleStudio as a regular update site from a file. The module will appear under the Components tab.
+2. Unzip to a local directory.
+3. Install it in MuleStudio as a regular update site from a file. The module will appear under the Components tab.
 
 For Maven
 ---------
